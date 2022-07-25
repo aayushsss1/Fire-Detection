@@ -2,4 +2,4 @@ A Fire Detection application built using the MobileNet Model, optimised and comp
 
 The Final Android Application !
 
-![Screenshot_20220724-192239](https://user-images.githubusercontent.com/51130346/180652664-92ccd58a-7411-4751-b52f-1d79c8119bd3.jpg)
+<img src = "https://user-images.githubusercontent.com/51130346/180652664-92ccd58a-7411-4751-b52f-1d79c8119bd3.jpg" width=50% height=50%>
