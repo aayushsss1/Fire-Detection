@@ -6,7 +6,7 @@ This repository contains the source code and resources for a Fire Detection Andr
 
 Detecting fires quickly and accurately is crucial for preventing and mitigating potential disasters. This Android app leverages machine learning and computer vision techniques to identify fires within video frames, providing valuable information to users in real-time.
 
-The core of this application is the MobileNet model, which has been optimized and compressed using TensorFlow Lite. This ensures efficient performance on mobile devices without sacrificing accuracy. The app captures video frames from the device's camera and passes them through the model for inference. If a fire is detected, the app provides visual and audible feedback to alert the user.
+The core of this application is the MobileNet model, which has been optimized and compressed using TensorFlow Lite. This ensures efficient performance on mobile devices without sacrificing accuracy. The app captures video frames from the device's camera and passes them through the model for inference.
 
 ## Requisites
 
